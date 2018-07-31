@@ -1,6 +1,6 @@
 # Dataskakare
 
-Python package with not so common data wrangling function and API wrappers.
+Python package with not so common data wrangling functions and API wrappers.
 
 Dataskakare currently contains the following:
 
