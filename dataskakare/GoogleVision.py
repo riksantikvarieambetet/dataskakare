@@ -3,7 +3,7 @@ import shelve
 from google.oauth2 import service_account
 from google.cloud import vision
 
-from data_transformation import rgb2hex
+from .data_transformation import rgb2hex
 
 class GoogleVision:
     def __init__(self, service_account_file, cache=True):
