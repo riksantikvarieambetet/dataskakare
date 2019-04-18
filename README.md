@@ -7,6 +7,7 @@ Dataskakare currently contains the following:
  - A cache enabled Google Vision wrapper.
  - A set of generators for the Europeana Search API.
  - A set of string transformations related to museum collections.
+ - A cache enabled Google Translate wrapper.
 
 ## Installing
 
