@@ -1,11 +1,11 @@
 from setuptools import setup
-version = '0.1.1'
+version = '0.2.0'
 repo = 'dataskakare'
 
 setup(
   name = 'dataskakare',
   packages = ['dataskakare'],
-  install_requires=['requests', 'google-auth', 'google-cloud-vision'],
+  install_requires=['requests', 'google-auth', 'google-cloud-vision', 'google-cloud-translate'],
   setup_requires=['pytest-runner'],
   tests_require=['pytest'],
   python_requires='>=3.6.0',
