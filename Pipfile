@@ -9,9 +9,5 @@ google-auth = "*"
 google-cloud-vision = "*"
 google-cloud-translate = "*"
 
-[dev-packages]
-pytest = "*"
-pytest-runner = "*"
-
 [requires]
 python_version = "3.6"
